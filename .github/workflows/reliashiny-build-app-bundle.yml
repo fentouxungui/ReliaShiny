@@ -50,7 +50,7 @@ env:
   APP_DESC: "Shiny app for reliability analysis"
   APP_HOMEPAGE: "https://github.com/paulgovan/ReliaShiny"
   APP_LICENSE: "CC-BY-4.0"
-  APP_MODE: "auto"
+  APP_MODE: "flat"
   APP_SUBDIR: "inst/app"
   PKG_SUBDIR: "."
   ENTRY_FN: ""
